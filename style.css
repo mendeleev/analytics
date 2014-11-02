@@ -17,9 +17,11 @@ div.wrapper {
 aside {
 	background: #eee;
 	width:230px;
-	float:right;
 	padding:10px;
 	border-radius:0.5em;
+	position: fixed;
+	top:40px;
+	right:15em;
 }
 
 div.content {
